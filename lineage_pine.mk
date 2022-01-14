@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/xiaomi/pine/device.mk)
 
 # Inherit some dotOS stuff.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/weeb/config/common_full_phone.mk)
 
 # Bootanimation res
 TARGET_BOOT_ANIMATION_RES := 720
@@ -25,7 +25,7 @@ DEVICE_MAINTAINER := Anarchyst
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_pine
+PRODUCT_NAME := weeb_pine
 PRODUCT_DEVICE := pine
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 7A
