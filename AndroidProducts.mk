@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pine.mk
+    $(LOCAL_DIR)/weeb_pine.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pine-user \
-    lineage_pine-userdebug \
-    lineage_pine-eng
+    weeb_pine-user \
+    weeb_pine-userdebug \
+    weeb_pine-eng
