@@ -25,7 +25,7 @@ DEVICE_MAINTAINER := Anarchyst
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_pine
+PRODUCT_NAME := weeb_pine
 PRODUCT_DEVICE := pine
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 7A
