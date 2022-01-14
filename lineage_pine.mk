@@ -19,7 +19,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 TARGET_BOOT_ANIMATION_RES := 720
 
 # Device Maintainer
-DEVICE_MAINTAINER := UtopianStorytelling
+DEVICE_MAINTAINER := Anarchyst
 
 # FaceUnlock
 TARGET_FACE_UNLOCK_SUPPORTED := true
